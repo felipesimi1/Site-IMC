@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
-:root {
-  --primary-color: rgb(17, 86, 102);
-  --primary-color-darker: rgb(9, 48, 56);
-}
 
 * {
   box-sizing: border-box;
@@ -82,7 +78,7 @@ form button:hover {
   background-color: #a5968c;
 }
 
-
+/* ------------------------- RESULTADOS ---------------------- */
 .paragrafo-resultado, .bad {
   background: rgb(109, 255, 182);
   padding: 10px 20px;
